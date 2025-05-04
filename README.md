@@ -64,4 +64,6 @@ no Body da Página, selecionando a opção raw, e mantendo o formato como JSON, 
 }
 ```
 
-## Tarefa realizada por **[Luiz](https://github.com/lui7z)** e **[Cecília](https://github.com/L11400)**
+## Tarefa realizada por:
+<a href="https://github.com/lui7z"><img width="62px" alt="Luiz" title="Luiz" src="https://avatars.githubusercontent.com/u/192318661?v=4">
+<a href="https://github.com/L11400"><img width="62px" alt="Cecília" title="Cecília" src="https://avatars.githubusercontent.com/u/183560885?v=4">
