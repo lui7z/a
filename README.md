@@ -63,9 +63,10 @@ no Body da Página, selecionando a opção raw, e mantendo o formato como JSON, 
   "tempo": "2:30"
 }
 ```
+## Tarefa realizada por:
 <p align="center">
   
-| ![Luiz](https://avatars.githubusercontent.com/u/192318661?v=4) | ![Cecília](https://avatars.githubusercontent.com/u/183560885?v=4) |
+| <img src="https://avatars.githubusercontent.com/u/192318661?v=4" width="62px" alt="Luiz"/> | <img src="https://avatars.githubusercontent.com/u/183560885?v=4" width="62px" alt="Cecília"/> |
 |:--:|:--:|
 | Luiz | Cecília |
 
