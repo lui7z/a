@@ -64,10 +64,8 @@ no Body da Página, selecionando a opção raw, e mantendo o formato como JSON, 
 }
 ```
 <p align="center">
-  <img width="62px" alt="Luiz" title="Luiz" src="https://avatars.githubusercontent.com/u/192318661?v=4">
-  <br>
-  Luiz
-  <img width="62px" alt="Cecília" title="Cecília" src="https://avatars.githubusercontent.com/u/183560885?v=4">
-  <br>
-  Cecília
+  <img width="62px" alt="Luiz" title="Luiz" src="https://avatars.githubusercontent.com/u/192318661?v=4" style="display: inline-block; margin-right: 20px;">
+  <span>Luiz</span>
+  <img width="62px" alt="Cecília" title="Cecília" src="https://avatars.githubusercontent.com/u/183560885?v=4" style="display: inline-block;">
+  <span>Cecília</span>
 </p>
