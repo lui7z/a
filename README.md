@@ -66,7 +66,7 @@ no Body da Página, selecionando a opção raw, e mantendo o formato como JSON, 
 ## Tarefa realizada por:
 <p align="center">
   
-| <img src="https://avatars.githubusercontent.com/u/192318661?v=4" width="62px" alt="Luiz"/> | <img src="https://avatars.githubusercontent.com/u/183560885?v=4" width="62px" alt="Cecília"/> |
+| <a href="https://github.com/lui7z"><img src="https://avatars.githubusercontent.com/u/192318661?v=4" width="62px" alt="Luiz"/></a> | <a href="https://github.com/L11400"><img src="https://avatars.githubusercontent.com/u/183560885?v=4" width="62px" alt="Cecília"/></a> |
 |:--:|:--:|
 | Luiz | Cecília |
 
