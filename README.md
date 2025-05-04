@@ -34,7 +34,7 @@ http://localhost:3000
 
 ## Pequenas Alterações
 
-Com o auxílio de IA, foi feito pequenas alterações na API para que seja possível a Adição de Músicas via **[Postman](https://www.postman.com/downloads/)**, Aplicativo esse já utilizado anteriormente nas aulas com o Prof. João Beji
+Com o auxílio de IA, foi feito pequenas alterações na API para que seja possível a Adição de Músicas via **[Postman](https://www.postman.com/downloads/)**, Aplicativo esse já utilizado anteriormente nas aulas com o Prof.**[João Beji](https://github.com/joaobeji)**
 
 Foram feitas alterações no arquivo app.js, além da adição do musicRoutes.js e musicController.js
 
@@ -62,3 +62,5 @@ no Body da Página, selecionando a opção raw, e mantendo o formato como JSON, 
   "genero": "genero",
   "tempo": "2:30"
 }
+
+Tarefa realizada por **[Luiz](https://github.com/lui7z)** e **[Cecília](https://github.com/L11400)**
