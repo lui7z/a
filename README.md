@@ -67,8 +67,6 @@ no Body da Página, selecionando a opção raw, e mantendo o formato como JSON, 
   <img width="62px" alt="Luiz" title="Luiz" src="https://avatars.githubusercontent.com/u/192318661?v=4">
   <br>
   Luiz
-</p>
-<p align="center">
   <img width="62px" alt="Cecília" title="Cecília" src="https://avatars.githubusercontent.com/u/183560885?v=4">
   <br>
   Cecília
