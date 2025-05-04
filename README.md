@@ -12,5 +12,7 @@ Foi utilizado uma Aplicação do Canal **[Código Fonte TV](https://www.youtube.
 Através do README disponível no Repositório, primeiramente foi necessário instalar o **[Docker](https://www.docker.com/)**
 Os passos descritos no README são para a instalação do Docker no CentOS, como estamos utilizando Windows, não precisamos seguir-los.
 
-Com o **[Git](https://git-scm.com/downloads/win)** Instalado no Computador, devemos Clonar o Repositório, usando:
+Com o **[Git](https://git-scm.com/downloads/win)** Instalado no Computado e devidamente aberto, devemos Clonar o Repositório, utilizando:
 - git clone https://github.com/gabrielfroes/api-nodejs-docker.git
+Posteriormente seguimos para a pasta utilizando:
+- cd api-nodejs-docker
