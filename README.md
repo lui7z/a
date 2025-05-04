@@ -14,5 +14,15 @@ Os passos descritos no README são para a instalação do Docker no CentOS, como
 
 Com o **[Git](https://git-scm.com/downloads/win)** Instalado no Computado e devidamente aberto, devemos Clonar o Repositório, utilizando:
 - git clone https://github.com/gabrielfroes/api-nodejs-docker.git
+
 Posteriormente seguimos para a pasta utilizando:
+
 - cd api-nodejs-docker
+
+Com o Docker aberto, utilizamos:
+
+- docker-compose up
+
+Esse comando faz com que a Imagem do Docker seja construída além de subir o Container com o Node.js já rodando a API
+Após isso é só acessar o localhost no navegador com a porta informada no arquivo docker-compose.yml, utilizando:
+- http://localhost:3000
