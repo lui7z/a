@@ -55,12 +55,13 @@ http://localhost:3000/musicas
 ```
 
 no Body da Página, selecionando a opção raw, e mantendo o formato como JSON, você pode adicionar uma música seguindo a estrutura:
-
+```shell
 {
   "nome": "nome da musica",
   "artista": "artista",
   "genero": "genero",
   "tempo": "2:30"
 }
+```
 
 Tarefa realizada por **[Luiz](https://github.com/lui7z)** e **[Cecília](https://github.com/L11400)**
